@@ -9,7 +9,7 @@ function Hero() {
         layout='fill'
         objectFit='cover'/>
         <div className="absolute top-1/2 w-full text-center">
-            <p className='font-medium text-sm sm:text-lg'>Not sure where to go? Perfect.</p>
+            <p className='font-medium text-sm sm:text-lg'>Not sure where to go? Perfect</p>
             <button className='bg-white text-purple-500 py-2 px-5 rounded-full shadow-md mt-2 font-bold
             hover:shadow-xl active:scale-90 transition duration-150'>
                 I'm flexible</button>
